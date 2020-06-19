@@ -1,0 +1,108 @@
+body{
+    background-color: #E5E5E5;
+    /*background-color: #0F2531;*/
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #E5E5E5;
+    font-size: 14px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 40px;
+}
+
+.navbar li {
+    padding: 0 10px;
+}
+
+
+
+.btn{
+    cursor: pointer;
+    border: none;
+    border-radius: .25rem;
+    padding: 7px 20px;
+    background-color: #F2C94C;
+    color: #FFFBFB;
+}
+
+#btn {
+    padding-top: 20px;
+}
+
+a {
+    color: black;
+  
+}
+
+a:hover {
+    color: #E4AF26;
+}
+
+.map-container-3{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    
+}
+
+
+.map-container-3 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    padding-bottom: 20px;
+}
+
+.col-md-2, .col-md-5 {
+    line-height: .8;
+}
+
+
+footer {
+    color: #ffffff;
+    background-color: #0F2531;
+}
+
+#contact {
+    padding-top: 50px;
+}
+
+.question {
+    text-align: center;
+}
+
+.row a {
+    color: #ffffff;
+    text-decoration: none;
+
+}
+
+.row a:hover {
+    color: #E4AF26;
+}
+
+.row {
+    padding: 0 50px;
+}
+
+.container-fluid {
+    background-color: #FFFDFD;
+    margin-bottom: 50px;;
+}
+
+.jumbotron{
+    padding: 20px 0;
+    background-color: #FFFDFD;
+    margin: 0;
+    
+}
+
+hr {
+    background-color: #F2C94C;
+}

@@ -97,12 +97,12 @@ html,body{
 
 a {
     color: black;
-  
 }
 
 a:hover {
     color: #E4AF26;
 }
+
 
 .map-container-3{
     overflow:hidden;
@@ -145,13 +145,11 @@ a:hover {
     color: #E4AF26;
 }
 
-.row {
-    padding: 0 50px;
-}
 
 .container-fluid {
     background-color: #FFFDFD;
     margin-bottom: 50px;
+    padding: 0 60px;
 }
 
 .jumbotron{
@@ -168,10 +166,6 @@ a:hover {
     margin-top: 5%;
     padding: 20px;
     
-}
-
-#footer{
-    background-color: #0F2531;
 }
 
 .footer-list{
